@@ -5,6 +5,9 @@ This template repository contains open-source css resources gatheredd from a var
  
 This is kind of a copy-paste effect. You can just copy the source code and paste it in your site or page-source and change the paticular elements you want. Contribute to my repository if you have any effects I still have not put. 
 
+For those who want to apply these effects right now without navigating between source codes, In this readme I have  provided the previw of what you are making and an image of the source codes.
+
+View some of the effects and animations [here](https://projects-aryankapoor.netlify.app/)
 
 The repository till now contains the following CSS effects:
 
