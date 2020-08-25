@@ -10,6 +10,7 @@ The repository till now contains the following CSS effects:
 
 1. CSS DYNAMIC NAVIGATION BAR
 
+
 ```
 BECOME A CONTRIBUTOR TO THIS REPOSITORY!
 ```
