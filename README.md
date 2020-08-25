@@ -27,6 +27,15 @@ The names on the navigation bar have hover effect.
 
 
 ## 2. MOVING BOX 
+![mb](https://user-images.githubusercontent.com/64773763/91146456-8cecb600-e6d4-11ea-82cc-fb917cf61a7c.JPG)
+
+This moving-box animation has also been gathered from YouTube but don't remember the video. Maybe in future I will edit this readme when I find out the video.
+
+I have put this animation in my project site.
+I actually wanted to edit it so that the color would change and the shape would be some other but I did not have much time, I was working on some other project.
+#### index file: moving-box.html
+
+### Source Code
 ![navbar](https://user-images.githubusercontent.com/64773763/91128975-d0d8be80-e6c6-11ea-98c9-e2b6021330f7.png)
 
 
