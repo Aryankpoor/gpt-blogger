@@ -8,13 +8,16 @@ This is kind of a copy-paste effect. You can just copy the source code and paste
 
 The repository till now contains the following CSS effects:
 
-## CSS DYNAMIC NAVIGATION BAR
+
+
+## 1. CSS DYNAMIC NAVIGATION BAR
 ![Capture](https://user-images.githubusercontent.com/64773763/91126876-a7b62f00-e6c2-11ea-8d8d-db7b3787db2d.JPG)
 
 The navigation bar has also been gathered from an open-source YouTube channel - Traversy Media.
 
 I have also made a drop down navigation bar for my site myself. 
+The names on the navigation bar have hover effect. 
 
-## MOVING BOX 
+## 2. MOVING BOX 
 
 
