@@ -9,7 +9,6 @@ This is kind of a copy-paste effect. You can just copy the source code and paste
 The repository till now contains the following CSS effects:
 
 1. CSS DYNAMIC NAVIGATION BAR
-![carbon (1)](https://user-images.githubusercontent.com/64773763/91125890-6e7cbf80-e6c0-11ea-8c3d-abc3be88f8ef.png)
 
 ```
 BECOME A CONTRIBUTOR TO THIS REPOSITORY!
