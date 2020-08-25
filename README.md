@@ -1,5 +1,10 @@
 # Css-Web-Resources
 
+## SOME COMMON QUESTIONS
+- [x] Does this contain CSS animations
+- [ ] Is this compatible with IE?         (OBVIOUSLY NOT INTERNET EXPLORER IS BEING SHUT DOWN BY MICROSOFT NOW)
+- [ ] Did you make all this?              (No but I have credited the original authors)
+- [x] Will more be uploaded?
 
 This template repository contains open-source css resources gatheredd from a variety of sources. I am trying to find all the css effects in a site online. I also try viewing a paticular site and try that effect. 
  
