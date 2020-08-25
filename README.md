@@ -27,5 +27,6 @@ The names on the navigation bar have hover effect.
 
 
 ## 2. MOVING BOX 
+![navbar](https://user-images.githubusercontent.com/64773763/91128975-d0d8be80-e6c6-11ea-98c9-e2b6021330f7.png)
 
 
