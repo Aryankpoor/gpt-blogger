@@ -2,7 +2,7 @@
 
 ###  This template repository contains open-source css resources 
  
-### This is kind of a copy-paste effect. You can just copy the teamplates and apply them in your project or site. They are open-source.Contribute to my repository if you have any effects I still have not put. 
+### This is kind of a copy-paste effect. You can just copy the teamplates and apply them in your project or site. They are open-source. Feel free to make a pull request.
 
 
 View some of the effects and animations [here](https://projects-aryankapoor.netlify.app/)
