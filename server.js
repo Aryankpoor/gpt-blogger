@@ -1,4 +1,4 @@
-const port = 4000;
+const port = process.env.port || 4000;
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
@@ -9,8 +9,6 @@ const cors = require('cors');
 
 app.use(express.json());
 app.use(cors());
-
-
 
 // Initialise database connection with mongoDB
 mongoose.connect("mongodb+srv://aryankap:PnQFfx42fOiv6RRA@cluster0.gpo0jdg.mongodb.net/e-commerce");
