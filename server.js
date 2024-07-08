@@ -10,6 +10,8 @@ const cors = require('cors');
 app.use(express.json());
 app.use(cors());
 
+
+
 // Initialise database connection with mongoDB
 mongoose.connect("mongodb+srv://aryankap:PnQFfx42fOiv6RRA@cluster0.gpo0jdg.mongodb.net/e-commerce");
 
