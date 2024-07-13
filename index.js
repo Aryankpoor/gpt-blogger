@@ -1,4 +1,4 @@
-const port = "https://sec-backend-1.onrender.com/";
+const port = process.env.PORT || 4000;
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 // Initialise database connection with mongoDB
-mongoose.connect("mongodb+srv://aryankap:PnQFfx42fOiv6RRA@cluster0.gpo0jdg.mongodb.net/e-commerce");
+mongoose.connect(process.env.db_url);
 
 // API creation
 
