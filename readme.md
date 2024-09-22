@@ -68,3 +68,10 @@ Don't worry, I gotchu.
 ```
 API_KEY=yourapikey
 ```
+
+##### LAST BUT NOT THE LEAST
+If anybody wants to solve the problem of using your own API key, I will be happy to accept any PR which accomplishes the following:
+- The project uses my API key rather than people having to provide their own
+- My API keys stays safe and unexposed to the person such that anybody from anywhere can download this project and use it with my API key, provided that they are not able to see my API key.
+- Also I want to be abe to convert the python file to ```.exe``` format so that any person can download the project and use it, not just people with python installed on their computers.
+- There is also an open issue in the repo regarding this
