@@ -5,7 +5,7 @@ A simple command line AI tool which you can use to write blogs.
 ## About the Project
 I built this as my final coding project as part of the ```Codedex Python Certification```
 
-### Technologies used
+## Technologies used
 
 1. ```Python```
 2. ```OpenAI module ```
@@ -39,7 +39,7 @@ print(generate_blog(user_input))
 ```
 The above code is pretty obvious I think
 
-### But wait. The user wants to know more?
+## But wait. The user wants to know more?
 
 That's when our loop comes into play. We are obviously not gonna just only let the user ask us once.
 
@@ -58,7 +58,7 @@ while keep_writing:
 Actually, openAI API pricing is really genuine, unless you are planning to build an industry level application.
 
 
-### What if you want to run the project using your own API key?   
+## What if you want to run the project using your own API key?   
 
 Don't worry, I gotchu.
 
@@ -69,7 +69,7 @@ Don't worry, I gotchu.
 API_KEY=yourapikey
 ```
 
-### LAST BUT NOT THE LEAST
+## LAST BUT NOT THE LEAST
 If anybody wants to solve the problem of using your own API key, I will be happy to accept any PR which accomplishes the following:
 - The project uses my API key rather than people having to provide their own
 - My API keys stays safe and unexposed to the person such that anybody from anywhere can download this project and use it with my API key, provided that they are not able to see my API key.
