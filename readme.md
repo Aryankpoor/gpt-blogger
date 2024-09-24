@@ -11,7 +11,7 @@ I built this as my final coding project as part of the ```Codedex Python Certifi
 2. ```OpenAI module ```
 3. ```Dotenv module```
 
-This project requires paid openAI credits which is why I have not comitted my openAI key in the repository to protect te credits.
+This project requires paid openAI credits which is why I have not comitted my openAI key in the repository to protect my own credits.
 
 #### An overview of how the project works
 The ```openai.api_key = config['API_KEY']``` calls for the hidden API key in the ```.env``` file, which I have added in the **gitignore** file
