@@ -3,3 +3,4 @@ blogger.exe
 blogger.spec
 dist
 build
+.gitignore
