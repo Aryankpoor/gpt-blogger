@@ -19,7 +19,7 @@ def generate_blog(paragraph_topic):
 
   return retrieve_blog
 
-user_input = input("Ask me anything: ")
+user_input = input("Give the topic you want to know about: ")
 print(generate_blog(user_input))
 
 keep_writing = True
