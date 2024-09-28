@@ -9,7 +9,7 @@ I built this as my final coding project as part of the ```Codedex Python Certifi
 
 1. ```Python```
 2. ```OpenAI module ```
-3. ```Dotenv module```
+3. ```Dotenv module``` (Discarded in final release)
 
 This project requires paid openAI credits which is why I have not comitted my openAI key in the repository to protect my own credits.
 
